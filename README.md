@@ -3,6 +3,8 @@
 Handwritten Digit Recognition or Classification uisng python, tensorflow, CNN for MNIST Images dataset.
 -------------------------------------------------------------------------------------------------------
 
+ [![Handwritten Digit Recognition using | Convolutional Neural Networks | Tensorflow | Python |](https://yt-embed.herokuapp.com/embed?v=0GQ1jgOo1lA)](https://www.youtube.com/watch?v=0GQ1jgOo1lA "Handwritten Digit Recognition Using | Convolutional Neural Networks | Tensorflow | Python |")
+ 
  Dataset link :
 ----------------
 Download https://www.kaggle.com/scolianni/mnistasjpg
